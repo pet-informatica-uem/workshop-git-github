@@ -10,6 +10,8 @@
 - Yuri Pires Alves
 ---
 ### Participantes
-- Vitor Azedo
-- Lucas Garcia dos Santos
 - Juliana Kawakami
+- Lucas Garcia dos Santos
+- Lucas Catuyama
+- Mateus Pereira Silva
+- Vitor Azedo
