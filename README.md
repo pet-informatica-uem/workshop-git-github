@@ -16,3 +16,4 @@
 - Mateus Pereira Silva
 - Vitor Azedo
 - Ryan Okonski
+- Christopher Mattos
