@@ -17,3 +17,4 @@
 - Vitor Azedo
 - Ryan Okonski
 - Christopher Mattos
+- Kethelyn Corrêa Andrade
