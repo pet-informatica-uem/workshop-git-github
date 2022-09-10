@@ -11,3 +11,5 @@
 ---
 ### Participantes
 - Vitor Azedo
+- Lucas Garcia dos Santos
+- Juliana Kawakami
