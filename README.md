@@ -10,7 +10,6 @@
 - Yuri Pires Alves
 ---
 ### Participantes
-- Kethelyn Corrêa Andrade 
 - Juliana Kawakami
 - Lucas Garcia dos Santos
 - Lucas Catuyama
@@ -18,4 +17,4 @@
 - Vitor Azedo
 - Ryan Okonski
 - Christopher Mattos
-
+- Kethelyn Corrêa Andrade
