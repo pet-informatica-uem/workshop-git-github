@@ -10,4 +10,7 @@
 - Yuri Pires Alves
 ---
 ### Participantes
--Mateus Pereira Silva
+- Juliana Kawakami
+- Lucas Garcia dos Santos
+- Lucas Catuyama
+- Mateus Pereira Silva
