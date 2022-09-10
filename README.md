@@ -11,3 +11,5 @@
 ---
 ### Participantes
 -Lucas Garcia dos Santos
+-Juliana Kawakami
+
