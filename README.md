@@ -10,4 +10,4 @@
 - Yuri Pires Alves
 ---
 ### Participantes
--
+- Ryan Okonski
